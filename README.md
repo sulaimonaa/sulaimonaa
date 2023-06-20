@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ayodeji is a Software Engineer with years of experience with some of well-known programming languages like Java, PHP, JavaScript, HTML5, CSS, React! 🌱 I have built some interesting projects, check my repo....📫 You can reach me at: sulaimonaa@gmail.com 🔗 https://www.linkedin.com/in/sulaimonaa/
+I'm Ayodeji, a Full-Stack Software Engineer with years of experience with some well-known programming languages like Java, PHP, JavaScript, HTML5, CSS, and React! 🌱 I have built some interesting projects, check my repo....📫 You can reach me at: sulaimonaa@gmail.com
+
