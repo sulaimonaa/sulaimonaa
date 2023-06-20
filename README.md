@@ -20,5 +20,5 @@ Hello, I'm Sulaimon Ayodeji, a Full-Stack Software Engineer, passionate about bu
 
 📖 I'm always looking for new challenges to help me grow as a developer and am available for a new job opportunity as a Software Engineer either remote or hybrid. You reach me via mail 📫 sulaimonaa@gmail.com and social handles. Here is a link to my Portfolio 🔗 https://sulaimonaa.github.io/Portfolio/
 
-❇ I love to listen to music and watch soccer in my leisure time...
+❇ I love to listen to music and watch soccer in my leisure time. 🗺️Currently located in Lagos, Nigeria.
 
