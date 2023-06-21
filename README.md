@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📧 sulaimonaa@gmail.com <be>
-🗃️ https://sulaimonaa.github.io/Portfolio/ <be>
+### 📧 sulaimonaa@gmail.com
+🗃️ https://sulaimonaa.github.io/Portfolio/
 🗺️ Lagos, Nigeria.
 <hr>
 
