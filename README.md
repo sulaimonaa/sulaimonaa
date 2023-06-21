@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📧 sulaimonaa@gmail.com
-🗃️ https://sulaimonaa.github.io/Portfolio/
-🗺️ Lagos, Nigeria.
+### 🗃️ https://sulaimonaa.github.io/Portfolio/
+### 🗺️ Lagos, Nigeria.
 <hr>
 
 Hello 👋, I'm Sulaimon Ayodeji, a Full-Stack Software Engineer, passionate about building designs and solutions with experience in Java, PHP, JavaScript, HTML5, CSS, and React! 🌱 📖 I'm always looking for new challenges to help me grow as a developer and am available for a new job opportunity as a Software Engineer either remote or hybrid. You reach me via mail 📫 sulaimonaa@gmail.com and social handles. Here is a link to my Portfolio 🔗 https://sulaimonaa.github.io/Portfolio/ you can check out some of my projects. 🗺️ I'm currently located in Lagos, Nigeria.
